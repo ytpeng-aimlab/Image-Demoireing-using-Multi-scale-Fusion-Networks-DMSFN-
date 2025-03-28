@@ -1,4 +1,4 @@
-# Image Demoireing using Multi-scale Fusion Networks (DMSFN)
+# Image Demoireing using Multi-scale Fusion Networks, IEEE Sensors Journal, 2024
 
 
 > **Abstract:** 
